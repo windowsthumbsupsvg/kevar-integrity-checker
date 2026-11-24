@@ -7,6 +7,7 @@ A lightweight, **100% open-source** Windows check built for tournament hosts, co
 ## Is this safe?
 
 i. Every check is a read-only (Meaning it changes nothing in you're pc and only reads if you've turned on 4 things)
+
 ii. No obfuscation (Meaning you can see all the code and check and alter it)
 
 ---
