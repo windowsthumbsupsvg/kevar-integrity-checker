@@ -23,7 +23,7 @@ When these built-in Windows security features are turned **on**—and verified b
 - **Adds Hardware Trust & Tamper Resistance (TPM 2.0):** Helps anchor system integrity and makes tampering or running in an untrusted state harder to hide.
 - **Forces Cheats Into Detection:** Because common bypasses break when these features stay enabled, players cannot silently disable them without failing the check—giving tournament staff a clear baseline before matches start.
 
-*(Note: This will not stop complex bypasses, this will just stop mediocre ones that have no effort put into it.)*
+*(Note: This will not stop complex bypasses, this will just stop mediocre ones that have no effort put into it, so it might stop 90% of cheaters)*
 
 ---
 
