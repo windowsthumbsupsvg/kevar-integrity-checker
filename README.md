@@ -43,3 +43,5 @@ When these built-in Windows security features are turned **on**—and verified b
 If you want to check the code check out [`check.ps1`](./check.ps1) first, then run this in PowerShell to execute it via Powershell w/o any files.
 ```powershell
 irm https://raw.githubusercontent.com/windowsthumbsupsvg/kevar-integrity-checker/main/check.ps1 | iex
+```
+<img width="1108" height="615" alt="image" src="https://github.com/user-attachments/assets/be4ebd73-6bad-4085-8e44-41578b77126e" />
